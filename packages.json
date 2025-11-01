@@ -245,6 +245,10 @@
 		"url": "https://github.com/paul-buerkner/brms"
 	},
 	{
+		"package": "bold",
+		"url": "https://github.com/ropensci/bold"
+	},
+	{
 		"package": "bppr",
 		"url": "https://github.com/dosreislab/bppr"
 	},
