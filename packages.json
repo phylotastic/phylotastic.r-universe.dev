@@ -208,6 +208,10 @@
 		"url": "https://github.com/emmanuelparadis/ape"
 	},
 	{
+		"package": "apTreeshape",
+		"url": "https://github.com/cran/apTreeshape"
+	},
+	{
 		"package": "adephylo",
 		"url": "https://github.com/thibautjombart/adephylo"
 	},
